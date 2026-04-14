@@ -1,0 +1,19 @@
+streamlit==1.36.0
+bcrypt==4.1.2
+
+# AI
+google-generativeai==0.8.6
+openai==1.30.1
+
+# Core data handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Networking / utils
+requests==2.31.0
+python-dotenv==1.0.1
+
+# Optional (only if you parse HTML / scraping)
+beautifulsoup4==4.12.3
+
+bcrypt
